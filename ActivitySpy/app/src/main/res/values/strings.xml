@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Activity Spy</string>
-    <string name="greeting_message">Greetings, UW!</string>
-    <string name="quote_with_attribution">"Whoa!" --Neo, The Matrix</string>
+    <string name="greeting_message">"Whoa!"</string>
+    <string name="quote_with_attribution">--Neo, The Matrix</string>
 </resources>
